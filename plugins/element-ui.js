@@ -69,6 +69,8 @@ import {
   Notification
 } from 'element-ui'
 
+import '~/assets/theme.scss'
+
 Vue.use(Pagination)
 Vue.use(Dialog)
 Vue.use(Autocomplete)

@@ -1,9 +1,9 @@
 <template>
-  <h1>我是 map</h1>
+  <h1>我是 user list</h1>
 </template>
 <script>
 export default {
-  name: 'map'
+  name: 'userList',
 }
 </script>
 
